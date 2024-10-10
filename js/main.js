@@ -3,7 +3,7 @@ jarallax(document.querySelectorAll('.jarallax'), {
 });
 
 var typed = new Typed('.herotext',{
-    strings:["Comment allez vous?", "Selamat menghadapi UTBK 2023"],
+    strings:["Ada Yang Bisa Saya Bantu?", "Selamat Datang Di Website X-1"],
     backSpeed: 40,
     typeSpeed: 70,
     loop: true,
@@ -12,6 +12,6 @@ var typed = new Typed('.herotext',{
   });
 
   document.getElementById('sosmed-ig').onclick = function () {
-      window.open("https://instagram.com/mipan.smanega", "_blank")
+      window.open("https://instagram.com/seaofclass_x1", "_blank")
   }
 
