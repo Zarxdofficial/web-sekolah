@@ -13,65 +13,67 @@
 
 const schedule = {
   "Senin": [
-    "😃😃😃",
-    "PJOK",
-    "PJOK",
-    "PJOK",
-    "Bahasa Indonesia",
-    "Bahasa Indonesia",
-    "Sejarah",
-    "Sejarah",
-    "Bahasa Prancis",
-    "Bahasa Prancis"
+    "apa lu? aku utamen🗿",
+    "Matematika",
+    "Matematika",
+    "prakrya",
+    "prakrya",
+    "Fisika",
+    "Fisika",
+    "Fisika"
     ],
 "Selasa": [
-  "Kimia",
-  "Kimia",
-  "Fisika",
-  "Fisika",
-  "Matematika (W)",
-  "Matematika (W)",
-  "Biologi", 
-  "Biologi",
-  "Matematika (P)",
-  "Matematika (P)",
+  "sosiologi",
+  "sosiologi",
+  "Matematika",
+  "Matematika",
+  "sosiologi",
+  "sejarah",
+  "sejarah", 
+  "sejarah",
+  
   ],
 "Rabu": [
-  "Matematika (W)",
-  "Matematika (W)",
-  "Bahasa Indonesia",
-  "Bahasa Indonesia",
-  "Ppkn",
-  "Ppkn",
-  "Kimia",
-  "Kimia",
-  "Seni Budaya",
-  "Seni Budaya"
+  "pjok",
+  "pjok",
+  "pjok",
+  "Agama",
+  "Agama",
+  "Agama",
+  "geografi",
+  "geografi",
+  "geografi"
 ],
 "Kamis": [
   "Bahasa Inggris",
   "Bahasa Inggris",
-  "Biologi",
-  "Biologi",
-  "Bahasa Prancis",
-  "Bahasa Prancis",
-  "Agama",
-  "BK",
-  "PKWU",
-  "PKWU"
+  "Bahasa Inggris",
+  "ekonomi",
+  "ekonomi",
+  "ekonomi",
+  "biologi",
+  "biologi",
+  "biologi"
 ],
 "Jumat": [
-  "Matematika (P)",
-  "Matematika (P)",
-  "Fisika",
-  "Fisika",
-  "Agama",
-  "Agama",
-  "Bahasa Jawa",
-  "Bahasa Jawa"
+  "kimia",
+  "komputer",
+  "komputer",
+  "pkn",
+  "pkn"
+],
+"sabtu": [
+  "kesenian",
+  "kesenian",
+  "bahasa indonesia",
+  "bahasa indonesi",
+  "kimia",
+  "kimia",
+  "bahasa indonesia",
+  "bahasa indonesia"
   
   ]
-
+  
 }
 
 let jadwalInner = document.getElementById('jadwal').innerHTML;
