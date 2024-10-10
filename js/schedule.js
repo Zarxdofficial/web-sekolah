@@ -3,9 +3,9 @@
  * 
  *  ------- Website Kelas ------
  * 
- * Name: website-mipa-satu
- * Author: Khuirul-Huda (@khuirul_huda)
- * Source Code: https://github.com/Khuirul-Huda/website-mipa-satu
+ * Name: website-ipa-sepuluh-satu
+ * Author: Nizar (@Zarxdoffical)
+ * Source Code: https://github.com/Khuirul-Huda/website-ipa-sepuluh-satu
  * 
  * ------------------------------
 **/
